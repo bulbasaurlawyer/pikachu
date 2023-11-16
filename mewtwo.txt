@@ -3,3 +3,4 @@ iki
 üç
 dört
 beş
+altı
