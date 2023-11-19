@@ -6,5 +6,7 @@ beş
 altı
 yedi
 sekiz 
+dokuz
+
 
 
