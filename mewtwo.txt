@@ -8,6 +8,7 @@ yedi
 sekiz 
 dokuz
 on 
+onbir 
 
 
 
