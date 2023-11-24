@@ -9,6 +9,7 @@ sekiz
 dokuz
 on 
 onbir 
+oniki
 
 
 
