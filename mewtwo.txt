@@ -27,7 +27,8 @@ yirmialtı
 yimiryedi 
 yirmisekiz 
 yirmidokuz 
-otuz
+otuz 
+oturbir 
 
 
 
