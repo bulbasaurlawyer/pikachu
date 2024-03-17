@@ -36,6 +36,8 @@ otuzbeş
 otuzaltı  
 otuzyedi  
 otuzsekiz  
+otuzdokuz 
+
 
 
 
