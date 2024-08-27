@@ -10,4 +10,6 @@ giratina9
 giratina10
 giratina11
 giratina12
+giratina13
+
 
