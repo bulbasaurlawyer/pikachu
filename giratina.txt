@@ -28,5 +28,6 @@ giratina 27
 giratina 28 
 giratina 29 
 giratina 30 
+giratina 31 
 
 
