@@ -31,5 +31,6 @@ giratina 30
 giratina 31 
 giratina 32 
 giratina 33 
+giratina 34 
 
 
