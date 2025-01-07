@@ -33,5 +33,6 @@ giratina 32
 giratina 33 
 giratina 34 
 giratina 35 
+giratina 36 
 
 
