@@ -37,5 +37,6 @@ giratina 36
 giratina 37 
 giratina 38 
 giratina 39 
+giratina 40 
 
 
