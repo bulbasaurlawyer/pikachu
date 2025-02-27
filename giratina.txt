@@ -43,5 +43,6 @@ giratina 42
 giratina 43 
 giratina 44 
 giratina 45 
+giratina 46 
 
 
