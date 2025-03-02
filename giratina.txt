@@ -45,5 +45,6 @@ giratina 44
 giratina 45 
 giratina 46 
 giratina 47 
+giratina 48 
 
 
