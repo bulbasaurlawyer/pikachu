@@ -51,5 +51,7 @@ giratina 50
 giratina 51 
 giratina 52 
 giratina 53 
+giratina 54 
+
 
 
