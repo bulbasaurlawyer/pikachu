@@ -56,5 +56,6 @@ giratina 55
 giratina 56 
 giratina 57 
 giratina 58 
+giratina 59 
 
 
