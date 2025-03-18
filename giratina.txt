@@ -61,5 +61,6 @@ giratina 60
 giratina 61 
 giratina 62 
 giratina 63 
+giratina 64 
 
 
