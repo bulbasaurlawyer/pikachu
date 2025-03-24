@@ -68,5 +68,6 @@ giratina 67
 giratina 68 
 giratina 69 
 giratina 70 
+giratina 71 
 
 
