@@ -71,5 +71,6 @@ giratina 70
 giratina 71 
 giratina 72 
 giratina 73 
+giratina 74 
 
 
