@@ -80,5 +80,6 @@ giratina 79
 giratina 80 
 giratina 81 
 giratina 82 
+giratina 83 
 
 
