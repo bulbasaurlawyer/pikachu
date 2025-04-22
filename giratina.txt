@@ -87,5 +87,6 @@ giratina 86
 giratina 87 
 giratina 88 
 giratina 89 
+giratina 90 
 
 
